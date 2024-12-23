@@ -1,5 +1,8 @@
 _repo: In-Sargasso-Missing-a-romance-b-Narrative-of-Capt-Austin-Clark-of-the-tramp-steamer-Caribas-w__74830
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74830-h/images/cover.jpg
 creator:
   author:
     agent_name: Chambers, Julius
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55975
     wikipedia: https://en.wikipedia.org/wiki/Julius_Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74830#In-Sargasso-Missing-a-romance-b-Narrative-of-Capt-Austin-Clark-of-the-tramp-steamer-Caribas-w_
 gutenberg_issued: '2024-12-03'
 gutenberg_type: Text
 identifiers:
